@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "916533267812",
+    "firebase_url": "https://bastonint-5ee6c-default-rtdb.firebaseio.com",
+    "project_id": "bastonint-5ee6c",
+    "storage_bucket": "bastonint-5ee6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916533267812:android:c2a78f72eb15557e563e71",
+        "android_client_info": {
+          "package_name": "com.utvm.firebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916533267812-k80ge1gbr3ncqcoa2ckre53f0jhpjm9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqLxYH5uct4CDFk2vUYlWEGUkBTfrFWHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916533267812-k80ge1gbr3ncqcoa2ckre53f0jhpjm9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
